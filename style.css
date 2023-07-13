@@ -50,7 +50,7 @@
     margin-top: 80px;
  }
  .content p{
-   margin: 20px;
+   margin: 20px auto;
    font-weight: 100;
    line-height: 25px;
  }
@@ -71,7 +71,7 @@
 span{
     background: #B85042;
     height: 100%;
-    width: 100px;
+    width: 0px;
     border-radius: 25px;
     position: absolute;
     left: 0;
