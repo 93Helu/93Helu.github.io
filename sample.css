@@ -24,7 +24,7 @@
 }
 
 .logo{
-    color: #248097;
+    color: #ec5e1c;
     font-size: 35px;
     font-family: Arial;
     padding-left: 20px;
@@ -34,7 +34,7 @@
 }
 
 .menu{
-    width: 400px;
+    width: 200px;
     float: left;
     height: 70px;
 }
@@ -50,19 +50,19 @@ ul li{
     list-style: none;
     margin-left: 62px;
     margin-top: 27px;
-    font-size: 14px;
+    font-size: 10px;
 }
 
 ul li a{
     text-decoration: none;
-    color: #fff;
+    color: #ec5e1c;
     font-family: Arial;
     font-weight: bold;
     transition: 0.4s ease-in-out;
 }
 
 ul li a:hover{
-    color: #248097;
+    color: #ec5e1c;
 }
 
 .search{
@@ -76,7 +76,7 @@ ul li a:hover{
     width: 200px;
     height: 40px;
     background: transparent;
-    border: 1px solid #ec5e1c;
+    border: 1px solid #fff;
     margin-top: 13px;
     color: #fff;
     border-right: none;
@@ -91,7 +91,7 @@ ul li a:hover{
     width: 100px;
     height: 40px;
     background: #248097;
-    border: 2px solid #ec5e1c;
+    border: 2px solid #fff;
     margin-top: 13px;
     color: #fff;
     font-size: 15px;
@@ -130,20 +130,20 @@ ul li a:hover{
 
 .content h1{
     font-family: 'Times New Roman';
-    font-size: 50px;
+    font-size: 25px;
     padding-left: 20px;
     margin-top: 9%;
-    letter-spacing: 2px;
+    letter-spacing: 1px;
 }
 
 .content .cn{
-    width: 160px;
+    width: 100px;
     height: 40px;
     background: #ec5e1c;
     border: none;
     margin-bottom: 10px;
-    margin-left: 20px;
-    font-size: 18px;
+    margin-left: 10px;
+    font-size: 14px;
     border-radius: 10px;
     cursor: pointer;
     transition: .4s ease;
@@ -157,7 +157,7 @@ ul li a:hover{
 }
 
 .cn:hover{
-    background-color: #fff;
+    background-color: #248097;
 }
 
 .content span{
@@ -166,15 +166,15 @@ ul li a:hover{
 }
 
 .form{
-    width: 250px;
-    height: 380px;
+    width: 150px;
+    height: 250px;
     background: linear-gradient(to top, rgba(0,0,0,0.8)50%,rgba(0,0,0,0.8)50%);
     position: absolute;
     top: -20px;
-    left: 870px;
+    left: 650px;
     transform: translate(0%,-5%);
     border-radius: 10px;
-    padding: 25px;
+    padding: 15px;
 }
 
 .form h2{
